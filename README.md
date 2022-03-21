@@ -1,2 +1,2 @@
 # TestWordpress
- http://testabcd.cloudns.cl:8080/
+ http://testabcd.cloudns.cl:8088/
